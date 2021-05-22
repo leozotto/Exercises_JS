@@ -12,7 +12,7 @@
 //**UTILIZAR LET OU CONST, EVITAR VAR E EVITAR VARIAVEL SEM DECLARAR O TIPO DA VARIAVEL.
 //------------------------------------------------
 
-/*console.log("var:");
+console.log("var:");
 var pi = 3.141592; 
 console.log(pi);
 pi = 3;
@@ -22,12 +22,11 @@ console.log(pi);
 if(true){
     var pi = 3.141592
 }
-console.log(true);*/
+console.log(true);
 
 //------------------------------------------------
 
-
-/*console.log("let:");
+console.log("let:");
 let pi = 3.141592;
 console.log(pi);
 pi = 3;
@@ -36,11 +35,11 @@ console.log(pi);
 if(true){
     let pi = 3.141592;
 }
-console.log(true);*/
+console.log(true);
 
 //------------------------------------------------
 
-/*
+
 console.log("const:");
 const pi = 3.141592;
 console.log(pi);
@@ -50,12 +49,11 @@ console.log(pi);
 if(true){
     const pi = 3.141592;
 }
-console.log(pi);*/
+console.log(pi);
 
 //------------------------------------------------
-/* identificadores:
+//identificadores:
 let name;
 let Name;
 let _name;
 let $name;
-*/
